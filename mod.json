@@ -1,0 +1,10 @@
+{
+	"name": "pirate-brazilifier",
+	"displayName": "Pirate Brazilifier",
+	"author": "BasedUser",
+	"description": "Sends \"\"\"pirates\"\"\" to brazil.\n\nWhy would anyone pirate a free game?",
+	"version": "1.0",
+	"minGameVersion": "126",
+	"hidden": true
+}
+ 
