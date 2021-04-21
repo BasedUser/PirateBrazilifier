@@ -1,4 +1,4 @@
-const pirates = Seq.of("VALVE", "tuttop", "CODEX", "IGGGAMES", "IgruhaOrg");
+const pirates = Seq.of("VALVE", "tuttop", "CODEX", "IGGGAMES", "IgruhaOrg", "FreeTP.Org");
 
 Events.on(PlayerConnectEvent, e => {
 	if (pirates.contains(e.player.name)) {
